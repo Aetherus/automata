@@ -1,4 +1,4 @@
-# defmodule Automaton.Control.Ask do
+# defmodule Automata.Control.Ask do
 #   @moduledoc """
 #     Supervises user-defined selector actions
 #   """

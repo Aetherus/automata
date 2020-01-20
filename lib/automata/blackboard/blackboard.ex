@@ -1,4 +1,4 @@
-defmodule Automaton.Blackboard do
+defmodule Automata.Blackboard do
   @moduledoc """
     Blackboard Architectures
       A blackboard system isn’t a decision making tool in its
